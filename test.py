@@ -7,8 +7,8 @@ import pytest
 import os
 import json
 import tempfile
-# from main import *
-from ejemplo_implementacion import *
+from main import *
+# from ejemplo_implementacion import *
 
 
 class TestVariablesYTipos:
